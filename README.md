@@ -36,4 +36,8 @@ Jika penanda tersebut diklik, akan muncul pilihan untuk menghapus catatan terseb
 "Jaga tampilan tetap simpel"
 
 Fokusnya adalah pada fungsi, jadi tidak perlu membuat desain yang rumit, menambahkan gambar-gambar baru, atau merombak total kode yang sudah ada. Cukup gunakan komponen yang sudah disediakan.
+![WhatsApp Image 2025-11-24 at 13 07 47 (1)](https://github.com/user-attachments/assets/c589cd3b-15d5-41b0-8e0e-89d5b7ec75ff)
+![WhatsApp Image 2025-11-24 at 13 07 47 (2)](https://github.com/user-attachments/assets/c4a9402e-23dc-49bb-98b6-831647e8253e)
+![WhatsApp Image 2025-11-24 at 13 07 47](https://github.com/user-attachments/assets/fcdeac20-1395-4f9c-9dc4-c05e78039d71)
+
 
